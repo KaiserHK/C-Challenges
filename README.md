@@ -1,2 +1,2 @@
 # C-Challenges
- A repo containing solutions to C problems.
+ A repo that contains my solutions to different C coding challenges from https://www.hackerrank.com/domains/c.
